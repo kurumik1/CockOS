@@ -1,7 +1,6 @@
 #imports
 import os
 import time
-from playsound import playsound
 
 pyloc = os.getcwd()
 filesystemlocation = pyloc + os.path.normpath("/")
